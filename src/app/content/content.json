@@ -1,0 +1,50 @@
+{
+   "introduction": "I am a self-motivated software developer with experience in various frameworks and languages, with a specific focus and specialization for front-end web & application development.\n Over the past few years I have worked on various different software projects in different fields, as I endeavored to broaden my real world experience by regularly switching the challenge ahead of me once I felt I had learned all that I could in that context.\n Over the last few years I have spent the majority of my time working for a small software consultancy, first as a front-end developer before being promoted to the development manager.",
+   "skills": [
+      {
+         "languages": "Javascript, Typescript, HTML & CSS, SQL(basic), git, node"
+      },
+      { "frameworks": "ReactJS, VueJS, AngularJS, Redux, Tailwindcss, NVM" },
+      {
+         "databases": "MySql, Postgress, MongoDB (basic knowledge, as I work mostly on FE)"
+      },
+      { "software": "Visual Studio, VScode, github, gitlab" },
+      { "platforms": "Windows, Linux, Android" }
+   ],
+   "experience": [
+      {
+         "jobTitle": "Front-end engineer & development manager",
+         "dates": "2021 - present",
+         "company": "Bluebird Technology",
+         "description": "Worked on various software projects as a front-end engineer (hired out to local and international clients as consultant). Also worked as development manager collaborating with junior & senior developers as well as project managers to oversee and drive internal and client funded projects within the consultancy. (progress tracking, reporting to stake holders, code review and upskilling).",
+         "keyPoints": {
+            "title": "Some of the projects I worked on",
+            "points": [
+               "a German healthcare software startup",
+               "a well-established logistics company",
+               "a prominent cryptocurrency investment bank (operating from the UK with development operations in SA)"
+            ]
+         }
+      },
+      {
+         "jobTitle": "Freelance software engineer",
+         "dates": "2019 - 2021",
+         "company": "Self employed",
+         "description": "Among a few other smaller freelance projects, I had one particularly prestigious project during this time. I was hired for front-end development, along with a graphic designer and another startup (who provided the back- end development). The client wanted us to build an educational tool for high school students. I built the entire front-end for the application in Angular. The client won an award for this application at the 2020 MTN business app of the year.",
+         "keyPoints": {
+            "title": null,
+            "points": null
+         }
+      },
+      {
+         "jobTitle": "Intern software developer",
+         "dates": "2017 - 2019",
+         "company": "Eval Geniuses",
+         "description": "Internship at a new tech startup. They had a few very prestigious clients. I got to work on a website for Hasbro SA, as well as software for a prominent financing company. Also got to work on a reporting dashboard, which integrated graphs and various reporting methods to display data from hardware sensors for major grocery supplier companies in SA. I learned a lot about real world programming and systems. It was a very valuable transition from my university studies into the world of real software development.",
+         "keyPoints": {
+            "title": null,
+            "points": null
+         }
+      }
+   ]
+}

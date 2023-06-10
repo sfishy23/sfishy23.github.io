@@ -1,1 +1,0 @@
-Just a side project to teach myself the fundamentals of nextjs version 13
